@@ -1,0 +1,257 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "reviews": "Reseñas",
+    "services": "Servicios",
+    "contacts": "Contacto",
+    "qa": "Preguntas"
+  },
+  "home": {
+    "hero": {
+      "title": "Bienvenido a Cosmarspa Med Beauty",
+      "subtitle": "La belleza comienza con la decisión interna de ser tú mismo.",
+      "cta": "Reservar Cita"
+    },
+    "featuredServices": {
+      "title": "Servicios",
+      "subtitle": "Explora tratamientos profesionales adaptados a las necesidades de tu piel y belleza",
+      "services": [
+        {
+          "title": "Facial – Extracciones Manuales",
+          "description": "Limpieza profunda y extracciones manuales para una piel clara y saludable"
+        },
+        {
+          "title": "Depilación Láser",
+          "description": "Resultados suaves y duraderos con tecnología láser avanzada"
+        },
+        {
+          "title": "Depilación con Cera & Azúcar",
+          "description": "Eliminación de vello suave y efectiva para una piel sedosa"
+        }
+      ],
+      "link": "Saber más"
+    },
+    "testimonials": {
+      "title": "Lo que dicen los clientes",
+      "subtitle": "Lee experiencias compartidas por quienes confían en Cosmarspa Med Beauty",
+      "link": "Leer más"
+    },
+    "cta": {
+      "title": "¿Listo para transformarte?",
+      "subtitle": "Reserva tu cita hoy y experimenta la diferencia Cosmarspa",
+      "button": "Reservar ahora"
+    }
+  },
+  "about": {
+    "title": "Acerca de Cosmarspa Med Beauty",
+    "subtitle": "Un enfoque médico personalizado para la belleza y el cuidado personal",
+    "founder": {
+      "title": "Conoce a Alona — Fundadora & Esteticista",
+      "introduction": "Cuando una mujer elige cuidarse, elige confiar. Y estoy aquí para honrar esa confianza.",
+      "story": "Mi nombre es Alona — soy esteticista licenciada, especialista en láser y fundadora de CosmarSpa Med Beauty. Lo que ofrezco no es solo estética. Es donde la ciencia se encuentra con la sensibilidad, y donde la atención personalizada se combina con el cuidado profesional.\n\nMi camino comenzó en la medicina — en cuidados intensivos, trabajando con pacientes en estados críticos. Con el tiempo, amplié mis conocimientos en el cuidado de la piel, técnicas con láser y dispositivos, y desarrollé una base sólida en anatomía facial, procesos de envejecimiento y métodos estéticos — incluidos enfoques inyectables adquiridos mediante formación internacional.",
+      "philosophy": "Hoy reúno todo lo que realmente importa para la salud de la piel y la confianza personal:\n• un enfoque médico sin jerga abrumadora;\n• protocolos personalizados según tu piel y tus objetivos;\n• tratamientos modernos con láser, dispositivos y manos;\n• y, sobre todo — cuidado sincero y atención total a cada mujer que entra por mi puerta.\n\nEn CosmarSpa Med Beauty, no solo recibes un servicio — entras en un espacio donde te escuchan, entienden y tratan con profesionalismo y respeto.\n\nCreo que la belleza comienza con la decisión interna de ser tú mismo. Y estoy aquí para que ese camino sea inspirador."
+    },
+    "certifications": {
+      "title": "Licencias & Certificaciones"
+    }
+  },
+  "services": {
+    "title": "Servicios en Cosmarspa Med Beauty",
+    "subtitle": "Descubre una gama completa de tratamientos de belleza adaptados a tus necesidades",
+    "categories": {
+      "all": "Todos los Servicios",
+      "facials": "Faciales",
+      "facial_addons": "Complementos Faciales",
+      "waxing": "Depilación con Cera/Azúcar (Mujeres)",
+      "waxing_men": "Depilación con Cera/Azúcar (Hombres)",
+      "laser": "Depilación Láser (Mujeres)",
+      "laser_men": "Depilación Láser (Hombres)",
+      "laser_package": "Paquetes de Depilación Láser (Mujeres)",
+      "laser_package_men": "Paquetes de Depilación Láser (Hombres)",
+      "rejuvenation": "Rejuvenecimiento de la Piel",
+      "vascular": "Eliminación Vascular"
+    }
+  },
+  "reviews": {
+    "title": "Reseñas de Clientes",
+    "subtitle": "Mira lo que dicen sobre Cosmarspa Med Beauty",
+    "modal_btn": "Dejar una Reseña",
+    "google_reviews": "Lo que dicen los clientes en Google",
+    "local_reviews": "Comentarios de visitantes de Cosmarspa Med Beauty",
+    "form": {
+      "title": "Dejar una Reseña",
+      "name": "Tu Nombre",
+      "email": "Tu Correo Electrónico",
+      "sn_link": "Enlace de Red Social",
+      "rating": "Calificación",
+      "comment": "Tu Reseña",
+      "submit": "Enviar Reseña",
+      "success_msg": "¡Reseña enviada con éxito!",
+      "error_msg": "No se pudo enviar la reseña. Por favor, inténtalo más tarde."
+    }
+  },
+  "contacts": {
+    "title": "Contacto Cosmarspa Med Beauty",
+    "info": {
+      "address": "Dirección",
+      "phone": "Teléfono",
+      "email": "Correo Electrónico",
+      "hours": "Horario de Atención",
+      "links": "Redes Sociales"
+    },
+    "form": {
+      "title": "Enviar un Mensaje",
+      "name": "Tu Nombre",
+      "email": "Tu Correo Electrónico",
+      "subject": "Asunto",
+      "message": "Tu Mensaje",
+      "submit": "Enviar Mensaje",
+      "success_msg": "¡Mensaje enviado con éxito!",
+      "error_msg": "No se pudo enviar el mensaje. Por favor, inténtalo más tarde."
+    }
+  },
+  "qa": {
+    "title": "Preguntas y Respuestas",
+    "subtitle": "Encuentra respuestas a preguntas comunes sobre los servicios de Cosmarspa Med Beauty",
+    "form": {
+      "title": "Haz una Pregunta",
+      "name": "Tu Nombre",
+      "email": "Tu Correo Electrónico",
+      "question": "Tu Pregunta",
+      "submit": "Enviar Pregunta",
+      "success_msg": "¡Pregunta enviada con éxito!",
+      "error_msg": "No se pudo enviar la pregunta. Por favor, inténtalo más tarde."
+    },
+    "questions": [
+      {
+        "question": "¿Cómo debo prepararme para mi cita facial?",
+        "answer": "Llega con la cara limpia y evita usar maquillaje. Informa a tu esteticista sobre cualquier sensibilidad o alergia en la piel."
+      },
+      {
+        "question": "¿Con qué frecuencia se recomienda realizar faciales?",
+        "answer": "Generalmente, se recomienda un facial cada 4 a 6 semanas para mantener la piel saludable y tratar preocupaciones específicas."
+      },
+      {
+        "question": "¿Puedo hacerme un facial si tengo piel sensible?",
+        "answer": "Sí, ofrecemos tratamientos especiales para piel sensible con productos suaves y calmantes. Solo informa a tu esteticista con antelación."
+      },
+      {
+        "question": "¿La depilación láser duele?",
+        "answer": "La mayoría de los clientes la describen como una leve sensación de chasquido. Usamos tecnología moderna para garantizar tu comodidad."
+      },
+      {
+        "question": "¿Cuántas sesiones de depilación láser necesitaré?",
+        "answer": "Normalmente se necesitan entre 6 y 8 sesiones para obtener resultados duraderos, dependiendo de tu tipo de piel y color de vello."
+      },
+      {
+        "question": "¿Puedo reservar varios servicios en una sola visita?",
+        "answer": "Por supuesto. Puedes combinar tratamientos como faciales, depilación y masajes en una sola sesión. Solo avísanos con antelación."
+      },
+      {
+        "question": "¿Sus tratamientos son seguros durante el embarazo?",
+        "answer": "Muchos de nuestros servicios son seguros durante el embarazo, pero consulta con tu médico e infórmanos antes de tu cita."
+      },
+      {
+        "question": "¿Ofrecen planes de tratamiento personalizados?",
+        "answer": "Sí, cada sesión se adapta a tus objetivos y necesidades de piel. Evaluamos tu piel y recomendamos el mejor enfoque."
+      },
+      {
+        "question": "¿Cómo puedo mantener los resultados entre visitas?",
+        "answer": "Te recomendaremos una rutina personalizada de cuidado en casa y consejos de estilo de vida para prolongar los resultados."
+      },
+      {
+        "question": "¿Hay estacionamiento disponible en el salón?",
+        "answer": "Sí, ofrecemos estacionamiento en el lugar para todos nuestros clientes."
+      }
+    ]
+  },
+  "footer": {
+    "text": "La belleza comienza con la decisión interna de ser tú mismo.",
+    "copyright": "© 2025 Cosmarspa Med Beauty. Todos los derechos reservados.",
+    "links": {
+      "privacy": "Política de Privacidad",
+      "terms": "Términos del Servicio",
+      "home": "Inicio",
+      "about": "Acerca de",
+      "services": "Servicios",
+      "contacts": "Contacto",
+      "qa": "Preguntas",
+      "quick_links": "Enlaces Rápidos",
+      "support": "Soporte",
+      "location": "Ubicación"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Mayo 2024",
+    "sections": [
+      {
+        "title": "1. Introducción",
+        "content": "En Cosmarspa Med Beauty, tu privacidad es importante. Esta política explica cómo recopilamos, usamos y protegemos tu información."
+      },
+      {
+        "title": "2. Información que Recopilamos",
+        "content": "Recopilamos información personal que nos proporcionas voluntariamente, como tu nombre, correo electrónico y mensajes o formularios enviados desde nuestro sitio web."
+      },
+      {
+        "title": "3. Cómo Usamos tu Información",
+        "content": "Usamos tu información para brindar servicios, responder consultas y mejorar nuestro sitio y servicios."
+      },
+      {
+        "title": "4. Compartir Información",
+        "content": "No vendemos ni compartimos tus datos personales con terceros, salvo cuando lo exige la ley o sea necesario para prestar el servicio."
+      },
+      {
+        "title": "5. Seguridad de Datos",
+        "content": "Tomamos medidas razonables para proteger tus datos personales contra el acceso, divulgación o mal uso no autorizados."
+      },
+      {
+        "title": "6. Tus Derechos",
+        "content": "Tienes derecho a acceder, actualizar o eliminar tu información personal contactándonos directamente."
+      },
+      {
+        "title": "7. Contáctanos",
+        "content": "Si tienes preguntas sobre esta política, escríbenos a contact@cosmarspa.com."
+      }
+    ]
+  },
+  "termsOfService": {
+    "title": "Términos del Servicio",
+    "lastUpdated": "Mayo 2024",
+    "sections": [
+      {
+        "title": "1. Aceptación de Términos",
+        "content": "Al acceder o usar el sitio de Cosmarspa Med Beauty, aceptas cumplir estos Términos del Servicio."
+      },
+      {
+        "title": "2. Servicios",
+        "content": "Ofrecemos servicios cosméticos y estéticos como se describen en el sitio. Todos están sujetos a disponibilidad y evaluación profesional."
+      },
+      {
+        "title": "3. Citas y Cancelaciones",
+        "content": "Las citas deben programarse con anticipación. Las cancelaciones deben hacerse al menos 24 horas antes."
+      },
+      {
+        "title": "4. Pagos y Precios",
+        "content": "Los precios están en el sitio y pueden cambiar. El pago se realiza al momento del servicio salvo otro acuerdo."
+      },
+      {
+        "title": "5. Conducta del Usuario",
+        "content": "Aceptas no hacer mal uso del sitio ni servicios, incluyendo enviar información falsa o actuar ilegalmente."
+      },
+      {
+        "title": "6. Limitación de Responsabilidad",
+        "content": "Cosmarspa Med Beauty no es responsable por daños derivados del uso o imposibilidad de uso del sitio o servicios."
+      },
+      {
+        "title": "7. Cambios en los Términos",
+        "content": "Nos reservamos el derecho de modificar estos términos en cualquier momento. Las versiones actualizadas se publicarán en esta página."
+      },
+      {
+        "title": "8. Contáctanos",
+        "content": "Para preguntas sobre estos Términos, contáctanos en contact@cosmarspa.com."
+      }
+    ]
+  }
+}

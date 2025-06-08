@@ -1,0 +1,257 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "reviews": "Reviews",
+    "services": "Services",
+    "contacts": "Contacts",
+    "qa": "Q&A"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Cosmarspa Med Beauty",
+      "subtitle": "Beauty begins with the inner decision to be yourself.",
+      "cta": "Book Appointment"
+    },
+    "featuredServices": {
+      "title": "Services",
+      "subtitle": "Explore professional treatments tailored to your skin and beauty needs",
+      "services": [
+        {
+          "title": "Facial – Extractions Manual",
+          "description": "Deep cleansing and manual extractions for clear, healthy skin"
+        },
+        {
+          "title": "Laser Hair Removal",
+          "description": "Smooth and long-lasting results with advanced laser technology"
+        },
+        {
+          "title": "Waxing & Sugaring",
+          "description": "Gentle and effective hair removal for silky-smooth skin"
+        }
+      ],
+      "link": "Learn more"
+    },
+    "testimonials": {
+      "title": "What Clients Say",
+      "subtitle": "Read experiences shared by those who trust Cosmarspa Med Beauty",
+      "link" : "Read more"
+    },
+    "cta": {
+      "title": "Ready to Transform?",
+      "subtitle": "Book your appointment today and experience the Cosmarspa difference",
+      "button": "Book Now"
+    }
+  },
+  "about": {
+    "title": "About Cosmarspa Med Beauty",
+    "subtitle": "A personalized medical approach to beauty and self-care",
+    "founder": {
+      "title": "Meet Alona — Founder & Esthetician",
+      "introduction": "When a woman chooses self-care — she chooses trust. And I’m here to honor that trust.",
+      "story": "My name is Alona — I’m a licensed esthetician, laser specialist, and the founder of CosmarSpa Med Beauty. What I offer is not just aesthetics. It’s where science meets sensitivity, and where personalized attention meets professional care.\n\nMy journey began in medicine — in critical care, working with patients in the most fragile states. Over time, I expanded my knowledge in skincare, laser and device-based techniques, and developed a strong foundation in facial anatomy, aging processes, and aesthetic methods — including injectable approaches gained through international training.",
+      "philosophy": "Today, I bring together everything that truly matters in skin health and self-confidence:\n• a medical approach without overwhelming terminology;\n• personalized protocols based on your skin and your goals;\n• modern laser, device-based, and hands-on skincare treatments;\n• and above all — sincere care and full attention to every woman who walks through my door.\n\nAt CosmarSpa Med Beauty, you’re not just receiving a service — you’re stepping into a space where you are heard, understood, and treated with professionalism and respect.\n\nI believe beauty begins with the inner decision to be yourself. And I’m here to make that journey inspiring."
+    },
+    "certifications": {
+      "title": "Licenses & Certifications"
+    }
+  },
+  "services": {
+    "title": "Services at Cosmarspa Med Beauty",
+    "subtitle": "Discover a comprehensive range of beauty treatments tailored to your needs",
+    "categories": {
+      "all": "All Services",
+      "facials": "Facials",
+      "facial_addons": "Facial Add-ons",
+      "waxing": "Waxing/Sugaring (Women)",
+      "waxing_men": "Waxing/Sugaring (Men)",
+      "laser": "Laser Hair Removal (Women)",
+      "laser_men": "Laser Hair Removal (Men)",
+      "laser_package": "Laser Hair Removal Packages (Women)",
+      "laser_package_men": "Laser Hair Removal Packages (Men)",
+      "rejuvenation": "Skin Rejuvenation",
+      "vascular": "Vascular Removal"
+    }
+  },
+  "reviews": {
+    "title": "Client Reviews",
+    "subtitle": "See what people are saying about Cosmarspa Med Beauty",
+    "modal_btn" : "Leave a Review",
+    "google_reviews": "What Clients Say on Google",
+    "local_reviews": "Feedback from Cosmarspa Med Beauty Visitors",
+    "form": {
+      "title": "Leave a Review",
+      "name": "Your Name",
+      "email": "Your Email",
+      "sn_link": "Social Media Link",
+      "rating": "Rating",
+      "comment": "Your Review",
+      "submit": "Submit Review",
+      "success_msg": "Review submitted successfully!",
+      "error_msg": "Failed to submit review. Please try again later."
+    }
+  },
+  "contacts": {
+    "title": "Contact Cosmarspa Med Beauty",
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Working Hours",
+      "links": "Social links"
+    },
+    "form": {
+      "title": "Send a Message",
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success_msg": "Message sent successfully!",
+      "error_msg": "Failed to send message. Please try again later."
+    }
+  },
+  "qa": {
+    "title": "Questions & Answers",
+    "subtitle": "Find answers to common questions about Cosmarspa Med Beauty services",
+    "form": {
+      "title": "Ask a Question",
+      "name": "Your Name",
+      "email": "Your Email",
+      "question": "Your Question",
+      "submit": "Submit Question",
+      "success_msg": "Question submitted successfully!",
+      "error_msg": "Failed to submit question. Please try again later."
+    },
+    "questions": [
+      {
+        "question": "How should I prepare for my facial appointment?",
+        "answer": "Arrive with a clean face and avoid wearing makeup. Inform your esthetician about any skin sensitivities or allergies."
+      },
+      {
+        "question": "What is the recommended frequency for facials?",
+        "answer": "Generally, it's best to get a facial every 4–6 weeks to maintain healthy skin and target specific concerns."
+      },
+      {
+        "question": "Can I get a facial if I have sensitive skin?",
+        "answer": "Yes, we offer treatments tailored for sensitive skin using gentle, calming products. Just inform your esthetician beforehand."
+      },
+      {
+        "question": "Is laser hair removal painful?",
+        "answer": "Most clients describe it as a mild snapping sensation. We use modern technology to ensure your comfort throughout the procedure."
+      },
+      {
+        "question": "How many laser hair removal sessions will I need?",
+        "answer": "It typically takes 6–8 sessions for long-lasting results, depending on your skin type and hair color."
+      },
+      {
+        "question": "Can I book multiple services in one visit?",
+        "answer": "Absolutely. You can combine treatments like facials, waxing, and massages in a single session. Just let us know in advance."
+      },
+      {
+        "question": "Are your treatments safe during pregnancy?",
+        "answer": "Many of our services are safe during pregnancy, but please consult your doctor and inform us before your appointment."
+      },
+      {
+        "question": "Do you offer personalized treatment plans?",
+        "answer": "Yes, each session is tailored to your skin goals and needs. We assess your skin and recommend the best approach for you."
+      },
+      {
+        "question": "How can I maintain results between visits?",
+        "answer": "We’ll recommend a personalized home skincare routine and lifestyle tips to help you keep your results longer."
+      },
+      {
+        "question": "Is there parking available at the salon?",
+        "answer": "Yes, we offer convenient on-site parking for all our clients."
+      }
+    ]
+  },
+  "footer": {
+    "text" : "Beauty begins with the inner decision to be yourself.",
+    "copyright": "© 2025 Cosmarspa Med Beauty. All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "contacts": "Contacts",
+      "qa": "Q&A",
+      "quick_links": "Quick Links",
+      "support": "Support",
+      "location": "Location"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "May 2024",
+    "sections": [
+      {
+        "title": "1. Introduction",
+        "content": "At Cosmarspa Med Beauty, your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your information."
+      },
+      {
+        "title": "2. Information We Collect",
+        "content": "We collect personal information that you voluntarily provide to us, such as your name, email address, and any messages or form submissions you send through our website."
+      },
+      {
+        "title": "3. How We Use Your Information",
+        "content": "We use your information to provide services, respond to inquiries, and improve our website and offerings."
+      },
+      {
+        "title": "4. Sharing of Information",
+        "content": "We do not sell or share your personal data with third parties, except when required by law or necessary to fulfill a service request."
+      },
+      {
+        "title": "5. Data Security",
+        "content": "We take reasonable measures to protect your personal data from unauthorized access, disclosure, or misuse."
+      },
+      {
+        "title": "6. Your Rights",
+        "content": "You have the right to access, update, or delete your personal information by contacting us directly."
+      },
+      {
+        "title": "7. Contact Us",
+        "content": "If you have any questions about this Privacy Policy, please contact us at contact@cosmarspa.com."
+      }
+    ]
+  },
+  "termsOfService": {
+    "title": "Terms of Service",
+    "lastUpdated": "May 2024",
+    "sections": [
+      {
+        "title": "1. Acceptance of Terms",
+        "content": "By accessing or using the Cosmarspa Med Beauty website, you agree to comply with and be bound by these Terms of Service."
+      },
+      {
+        "title": "2. Services",
+        "content": "We provide cosmetic and aesthetic services as described on our website. All services are subject to availability and professional assessment."
+      },
+      {
+        "title": "3. Appointments and Cancellations",
+        "content": "Appointments must be booked in advance. Cancellations must be made at least 24 hours prior to the scheduled appointment time."
+      },
+      {
+        "title": "4. Payment and Pricing",
+        "content": "All prices are listed on our website and are subject to change. Payment is due at the time of service unless otherwise agreed."
+      },
+      {
+        "title": "5. User Conduct",
+        "content": "Users agree not to misuse our website or services, including but not limited to submitting false information or engaging in unlawful behavior."
+      },
+      {
+        "title": "6. Liability Disclaimer",
+        "content": "Cosmarspa Med Beauty is not liable for any damages arising from the use or inability to use our services or website."
+      },
+      {
+        "title": "7. Changes to Terms",
+        "content": "We reserve the right to modify these terms at any time. Updated terms will be posted on this page with the date of revision."
+      },
+      {
+        "title": "8. Contact Us",
+        "content": "For any questions about these Terms, please contact us at contact@cosmarspa.com."
+      }
+    ]
+  }
+}
