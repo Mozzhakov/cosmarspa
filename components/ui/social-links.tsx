@@ -11,7 +11,7 @@ export default function SocialLinks() {
   return (
     <div className="flex space-x-4">
       <a
-        href="https://facebook.com"
+        href="https://www.facebook.com/share/175Sj9Y4Wz/?mibextid=wwXIfr"
         className="text-zinc-700 hover:text-[#999D8F]"
         aria-label="Facebook"
         target="_blank"
@@ -20,7 +20,7 @@ export default function SocialLinks() {
         <FiFacebook size={20} />
       </a>
       <a
-        href="https://instagram.com"
+        href="https://www.instagram.com/cosmarspa_med_beauty?igsh=MWxjaTNtNjB0MHAxcA%3D%3D&utm_source=qr"
         className="text-zinc-700 hover:text-[#999D8F]"
         aria-label="Instagram"
         target="_blank"
