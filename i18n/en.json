@@ -9,7 +9,7 @@
   },
   "home": {
     "hero": {
-      "title": "Welcome to Cosmarspa Med Beauty",
+      "title": "Welcome to CosMarSpa Med Beauty",
       "subtitle": "Beauty begins with the inner decision to be yourself.",
       "cta": "Book Appointment"
     },
@@ -34,17 +34,17 @@
     },
     "testimonials": {
       "title": "What Clients Say",
-      "subtitle": "Read experiences shared by those who trust Cosmarspa Med Beauty",
+      "subtitle": "Read experiences shared by those who trust CosMarSpa Med Beauty",
       "link" : "Read more"
     },
     "cta": {
       "title": "Ready to Transform?",
-      "subtitle": "Book your appointment today and experience the Cosmarspa difference",
+      "subtitle": "Book your appointment today and experience the CosMarSpa difference",
       "button": "Book Now"
     }
   },
   "about": {
-    "title": "About Cosmarspa Med Beauty",
+    "title": "About CosMarSpa Med Beauty",
     "subtitle": "A personalized medical approach to beauty and self-care",
     "founder": {
       "title": "Meet Alona — Founder & Esthetician",
@@ -57,7 +57,7 @@
     }
   },
   "services": {
-    "title": "Services at Cosmarspa Med Beauty",
+    "title": "Services at CosMarSpa Med Beauty",
     "subtitle": "Discover a comprehensive range of beauty treatments tailored to your needs",
     "categories": {
       "all": "All Services",
@@ -75,10 +75,10 @@
   },
   "reviews": {
     "title": "Client Reviews",
-    "subtitle": "See what people are saying about Cosmarspa Med Beauty",
+    "subtitle": "See what people are saying about CosMarSpa Med Beauty",
     "modal_btn" : "Leave a Review",
     "google_reviews": "What Clients Say on Google",
-    "local_reviews": "Feedback from Cosmarspa Med Beauty Visitors",
+    "local_reviews": "Feedback from CosMarSpa Med Beauty Visitors",
     "form": {
       "title": "Leave a Review",
       "name": "Your Name",
@@ -92,7 +92,7 @@
     }
   },
   "contacts": {
-    "title": "Contact Cosmarspa Med Beauty",
+    "title": "Contact CosMarSpa Med Beauty",
     "info": {
       "address": "Address",
       "phone": "Phone",
@@ -113,7 +113,7 @@
   },
   "qa": {
     "title": "Questions & Answers",
-    "subtitle": "Find answers to common questions about Cosmarspa Med Beauty services",
+    "subtitle": "Find answers to common questions about CosMarSpa Med Beauty services",
     "form": {
       "title": "Ask a Question",
       "name": "Your Name",
@@ -168,7 +168,7 @@
   },
   "footer": {
     "text" : "Beauty begins with the inner decision to be yourself.",
-    "copyright": "© 2025 Cosmarspa Med Beauty. All rights reserved.",
+    "copyright": "© 2025 CosMarSpa Med Beauty. All rights reserved.",
     "links": {
       "privacy": "Privacy Policy",
       "terms": "Terms of Service",
@@ -188,7 +188,7 @@
     "sections": [
       {
         "title": "1. Introduction",
-        "content": "At Cosmarspa Med Beauty, your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your information."
+        "content": "At CosMarSpa Med Beauty, your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your information."
       },
       {
         "title": "2. Information We Collect",
@@ -222,7 +222,7 @@
     "sections": [
       {
         "title": "1. Acceptance of Terms",
-        "content": "By accessing or using the Cosmarspa Med Beauty website, you agree to comply with and be bound by these Terms of Service."
+        "content": "By accessing or using the CosMarSpa Med Beauty website, you agree to comply with and be bound by these Terms of Service."
       },
       {
         "title": "2. Services",
@@ -242,7 +242,7 @@
       },
       {
         "title": "6. Liability Disclaimer",
-        "content": "Cosmarspa Med Beauty is not liable for any damages arising from the use or inability to use our services or website."
+        "content": "CosMarSpa Med Beauty is not liable for any damages arising from the use or inability to use our services or website."
       },
       {
         "title": "7. Changes to Terms",
@@ -250,7 +250,7 @@
       },
       {
         "title": "8. Contact Us",
-        "content": "For any questions about these Terms, please contact us at contact@cosmarspa.com."
+        "content": "For any questions about these Terms, please contact us at cosmarspamedbeauty@gmail.com."
       }
     ]
   }

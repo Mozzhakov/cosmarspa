@@ -9,7 +9,7 @@
   },
   "home": {
     "hero": {
-      "title": "Bienvenido a Cosmarspa Med Beauty",
+      "title": "Bienvenido a CosMarSpa Med Beauty",
       "subtitle": "La belleza comienza con la decisión interna de ser tú mismo.",
       "cta": "Reservar Cita"
     },
@@ -34,17 +34,17 @@
     },
     "testimonials": {
       "title": "Lo que dicen los clientes",
-      "subtitle": "Lee experiencias compartidas por quienes confían en Cosmarspa Med Beauty",
+      "subtitle": "Lee experiencias compartidas por quienes confían en CosMarSpa Med Beauty",
       "link": "Leer más"
     },
     "cta": {
       "title": "¿Listo para transformarte?",
-      "subtitle": "Reserva tu cita hoy y experimenta la diferencia Cosmarspa",
+      "subtitle": "Reserva tu cita hoy y experimenta la diferencia CosMarSpa",
       "button": "Reservar ahora"
     }
   },
   "about": {
-    "title": "Acerca de Cosmarspa Med Beauty",
+    "title": "Acerca de CosMarSpa Med Beauty",
     "subtitle": "Un enfoque médico personalizado para la belleza y el cuidado personal",
     "founder": {
       "title": "Conoce a Alona — Fundadora & Esteticista",
@@ -57,7 +57,7 @@
     }
   },
   "services": {
-    "title": "Servicios en Cosmarspa Med Beauty",
+    "title": "Servicios en CosMarSpa Med Beauty",
     "subtitle": "Descubre una gama completa de tratamientos de belleza adaptados a tus necesidades",
     "categories": {
       "all": "Todos los Servicios",
@@ -75,10 +75,10 @@
   },
   "reviews": {
     "title": "Reseñas de Clientes",
-    "subtitle": "Mira lo que dicen sobre Cosmarspa Med Beauty",
+    "subtitle": "Mira lo que dicen sobre CosMarSpa Med Beauty",
     "modal_btn": "Dejar una Reseña",
     "google_reviews": "Lo que dicen los clientes en Google",
-    "local_reviews": "Comentarios de visitantes de Cosmarspa Med Beauty",
+    "local_reviews": "Comentarios de visitantes de CosMarSpa Med Beauty",
     "form": {
       "title": "Dejar una Reseña",
       "name": "Tu Nombre",
@@ -92,7 +92,7 @@
     }
   },
   "contacts": {
-    "title": "Contacto Cosmarspa Med Beauty",
+    "title": "Contacto CosMarSpa Med Beauty",
     "info": {
       "address": "Dirección",
       "phone": "Teléfono",
@@ -113,7 +113,7 @@
   },
   "qa": {
     "title": "Preguntas y Respuestas",
-    "subtitle": "Encuentra respuestas a preguntas comunes sobre los servicios de Cosmarspa Med Beauty",
+    "subtitle": "Encuentra respuestas a preguntas comunes sobre los servicios de CosMarSpa Med Beauty",
     "form": {
       "title": "Haz una Pregunta",
       "name": "Tu Nombre",
@@ -168,7 +168,7 @@
   },
   "footer": {
     "text": "La belleza comienza con la decisión interna de ser tú mismo.",
-    "copyright": "© 2025 Cosmarspa Med Beauty. Todos los derechos reservados.",
+    "copyright": "© 2025 CosMarSpa Med Beauty. Todos los derechos reservados.",
     "links": {
       "privacy": "Política de Privacidad",
       "terms": "Términos del Servicio",
@@ -188,7 +188,7 @@
     "sections": [
       {
         "title": "1. Introducción",
-        "content": "En Cosmarspa Med Beauty, tu privacidad es importante. Esta política explica cómo recopilamos, usamos y protegemos tu información."
+        "content": "En CosMarSpa Med Beauty, tu privacidad es importante. Esta política explica cómo recopilamos, usamos y protegemos tu información."
       },
       {
         "title": "2. Información que Recopilamos",
@@ -222,7 +222,7 @@
     "sections": [
       {
         "title": "1. Aceptación de Términos",
-        "content": "Al acceder o usar el sitio de Cosmarspa Med Beauty, aceptas cumplir estos Términos del Servicio."
+        "content": "Al acceder o usar el sitio de CosMarSpa Med Beauty, aceptas cumplir estos Términos del Servicio."
       },
       {
         "title": "2. Servicios",
@@ -242,7 +242,7 @@
       },
       {
         "title": "6. Limitación de Responsabilidad",
-        "content": "Cosmarspa Med Beauty no es responsable por daños derivados del uso o imposibilidad de uso del sitio o servicios."
+        "content": "CosMarSpa Med Beauty no es responsable por daños derivados del uso o imposibilidad de uso del sitio o servicios."
       },
       {
         "title": "7. Cambios en los Términos",
@@ -250,7 +250,7 @@
       },
       {
         "title": "8. Contáctanos",
-        "content": "Para preguntas sobre estos Términos, contáctanos en contact@cosmarspa.com."
+        "content": "Para preguntas sobre estos Términos, contáctanos en cosmarspamedbeauty@gmail.com."
       }
     ]
   }

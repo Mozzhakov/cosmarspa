@@ -9,7 +9,7 @@
   },
   "home": {
     "hero": {
-      "title": "Добро пожаловать в Cosmarspa Med Beauty",
+      "title": "Добро пожаловать в CosMarSpa Med Beauty",
       "subtitle": "Красота начинается с внутреннего согласия быть собой.",
       "cta": "Записаться на приём"
     },
@@ -34,17 +34,17 @@
     },
     "testimonials": {
       "title": "Отзывы клиентов",
-      "subtitle": "Ознакомьтесь с мнениями тех, кто доверяет Cosmarspa Med Beauty",
+      "subtitle": "Ознакомьтесь с мнениями тех, кто доверяет CosMarSpa Med Beauty",
       "link": "Читать далее"
     },
     "cta": {
       "title": "Готовы к переменам?",
-      "subtitle": "Запишитесь прямо сейчас и почувствуйте разницу Cosmarspa Med Beauty",
+      "subtitle": "Запишитесь прямо сейчас и почувствуйте разницу CosMarSpa Med Beauty",
       "button": "Записаться"
     }
   },
   "about": {
-    "title": "О Cosmarspa Med Beauty",
+    "title": "О CosMarSpa Med Beauty",
     "subtitle": "Индивидуальный медицинский подход к красоте и заботе о себе",
     "founder": {
       "title": "Познакомьтесь с Алёной — основательницей и эстетистом",
@@ -57,7 +57,7 @@
     }
   },
   "services": {
-    "title": "Услуги Cosmarspa Med Beauty",
+    "title": "Услуги CosMarSpa Med Beauty",
     "subtitle": "Откройте для себя широкий спектр процедур, адаптированных под ваши потребности",
     "categories": {
       "all": "Все услуги",
@@ -75,10 +75,10 @@
   },
   "reviews": {
     "title": "Отзывы клиентов",
-    "subtitle": "Узнайте, что говорят о Cosmarspa Med Beauty",
+    "subtitle": "Узнайте, что говорят о CosMarSpa Med Beauty",
     "modal_btn": "Оставить отзыв",
     "google_reviews": "Отзывы с Google",
-    "local_reviews": "Отзывы посетителей Cosmarspa Med Beauty",
+    "local_reviews": "Отзывы посетителей CosMarSpa Med Beauty",
     "form": {
       "title": "Оставить отзыв",
       "name": "Ваше имя",
@@ -92,7 +92,7 @@
     }
   },
   "contacts": {
-    "title": "Связаться с Cosmarspa Med Beauty",
+    "title": "Связаться с CosMarSpa Med Beauty",
     "info": {
       "address": "Адрес",
       "phone": "Телефон",
@@ -113,7 +113,7 @@
   },
   "qa": {
     "title": "Вопросы и ответы",
-    "subtitle": "Ответы на часто задаваемые вопросы об услугах Cosmarspa Med Beauty",
+    "subtitle": "Ответы на часто задаваемые вопросы об услугах CosMarSpa Med Beauty",
     "form": {
       "title": "Задать вопрос",
       "name": "Ваше имя",
@@ -168,7 +168,7 @@
   },
   "footer": {
     "text": "Красота начинается с внутреннего согласия быть собой.",
-    "copyright": "© 2025 Cosmarspa Med Beauty. Все права защищены.",
+    "copyright": "© 2025 CosMarSpa Med Beauty. Все права защищены.",
     "links": {
       "privacy": "Политика конфиденциальности",
       "terms": "Условия использования",
@@ -188,7 +188,7 @@
     "sections": [
       {
         "title": "1. Введение",
-        "content": "Мы уважаем вашу конфиденциальность и обязуемся защищать личную информацию, которую вы нам предоставляете при использовании сайта Cosmarspa Med Beauty."
+        "content": "Мы уважаем вашу конфиденциальность и обязуемся защищать личную информацию, которую вы нам предоставляете при использовании сайта CosMarSpa Med Beauty."
       },
       {
         "title": "2. Сбор информации",
@@ -226,7 +226,7 @@
     "sections": [
       {
         "title": "1. Введение",
-        "content": "Добро пожаловать на сайт Cosmarspa Med Beauty. Используя наш сайт и услуги, вы соглашаетесь с настоящими условиями."
+        "content": "Добро пожаловать на сайт CosMarSpa Med Beauty. Используя наш сайт и услуги, вы соглашаетесь с настоящими условиями."
       },
       {
         "title": "2. Услуги",
@@ -254,7 +254,7 @@
       },
       {
         "title": "8. Контакты",
-        "content": "Если у вас есть вопросы по данным условиям, вы можете связаться с нами по адресу contact@cosmarspa.com."
+        "content": "Если у вас есть вопросы по данным условиям, вы можете связаться с нами по адресу cosmarspamedbeauty@gmail.com."
       }
     ]
   }
