@@ -86,6 +86,7 @@ export default function LanguageSwitcher({ lang }: LanguageSwitcherProps) {
   };
 
   const switchLanguage = (locale: string) => {
+    // @ts-ignore
     const newPath = pathname.replace(`/${lang}`, `/${locale}`);
     router.push(newPath);
     setIsOpen(false);
@@ -127,6 +128,7 @@ export default function LanguageSwitcher({ lang }: LanguageSwitcherProps) {
         onClick={toggleDropdown}
         aria-expanded={isOpen}
         aria-haspopup="true"
+        aria-label="Language Switcher"
       >
         <Globe size={18} />
         {/*<span className="hidden sm:inline">{languageNames[lang]}</span>*/}

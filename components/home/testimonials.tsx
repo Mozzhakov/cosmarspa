@@ -93,6 +93,7 @@ export default function Testimonials({ dictionary, lang }: TestimonialsProps) {
         </div>
         <div className="flex justify-center mt-12">
           <Link
+            aria-label="Learn more about our reviews"
             href={`/${lang}/reviews`}
             className="inline-flex items-center justify-center px-8 py-3 text-base font-medium rounded-md text-white bg-[#B7BBAC] hover:bg-[#999D8F] transition-colors duration-200"
           >

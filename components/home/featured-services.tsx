@@ -1,23 +1,26 @@
-import Image from "next/image"
-import Link from "next/link"
+import Image from "next/image";
+import Link from "next/link";
 
 interface FeaturedServicesProps {
   dictionary: {
     featuredServices: {
-      title: string
-      subtitle: string
+      title: string;
+      subtitle: string;
       services: Array<{
-        title: string
-        description: string
-      }>
+        title: string;
+        description: string;
+      }>;
       link: string;
-    }
-  }
-  lang:string;
+    };
+  };
+  lang: string;
 }
 
-export default function FeaturedServices({ dictionary, lang }: FeaturedServicesProps) {
-  const { title, subtitle, services, link } = dictionary.featuredServices
+export default function FeaturedServices({
+  dictionary,
+  lang,
+}: FeaturedServicesProps) {
+  const { title, subtitle, services, link } = dictionary.featuredServices;
 
   return (
     <section className="py-16 md:py-24">
@@ -29,7 +32,10 @@ export default function FeaturedServices({ dictionary, lang }: FeaturedServicesP
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {services.map((service, index) => (
-            <div key={index} className="bg-white rounded-lg shadow-sm overflow-hidden">
+            <div
+              key={index}
+              className="bg-white rounded-lg shadow-sm overflow-hidden"
+            >
               <div className="h-48 relative">
                 <Image
                   src={`/placeholder.svg?height=400&width=600&text=${encodeURIComponent(service.title)}`}
@@ -41,7 +47,11 @@ export default function FeaturedServices({ dictionary, lang }: FeaturedServicesP
               <div className="p-6">
                 <h3 className="font-heading text-xl mb-2">{service.title}</h3>
                 <p className="text-zinc-700 mb-4">{service.description}</p>
-                <Link href={`/${lang}/services`} className="inline-flex items-center text-zinc-700 hover:text-[#999D8F]">
+                <Link
+                  href={`/${lang}/services`}
+                  className="inline-flex items-center text-zinc-700 hover:text-[#999D8F]"
+                  aria-label="Learn more about our services"
+                >
                   {link}
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -50,7 +60,12 @@ export default function FeaturedServices({ dictionary, lang }: FeaturedServicesP
                     viewBox="0 0 24 24"
                     stroke="currentColor"
                   >
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M9 5l7 7-7 7"
+                    />
                   </svg>
                 </Link>
               </div>
@@ -59,5 +74,5 @@ export default function FeaturedServices({ dictionary, lang }: FeaturedServicesP
         </div>
       </div>
     </section>
-  )
+  );
 }
