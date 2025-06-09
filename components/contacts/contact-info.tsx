@@ -212,7 +212,10 @@ export default function ContactInfo({ dictionary }: ContactInfoProps) {
           <FaPhoneAlt className="text-[#B7BBAC] mr-3 mt-1" size={20} />
           <div>
             <h3 className="font-heading text-lg mb-1">{phone}</h3>
-            <p className="text-zinc-700">+1 (346) 372-2661</p>
+            {/*<p className="text-zinc-700">+1 (346) 372-2661</p>*/}
+            <a href="tel:+13463722661" className="text-zinc-700">
+              +1 (346) 372-2661
+            </a>
           </div>
         </div>
       </div>
@@ -223,7 +226,12 @@ export default function ContactInfo({ dictionary }: ContactInfoProps) {
           <FaEnvelope className="text-[#B7BBAC] mr-3 mt-1" size={20} />
           <div>
             <h3 className="font-heading text-lg mb-1">{email}</h3>
-            <p className="text-zinc-700">cosmarspamedbeauty@gmail.com</p>
+            <a
+              href="mailto:cosmarspamedbeauty@gmail.com"
+              className="text-zinc-700"
+            >
+              cosmarspamedbeauty@gmail.com
+            </a>
           </div>
         </div>
       </div>
