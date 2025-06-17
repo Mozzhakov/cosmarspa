@@ -163,44 +163,85 @@ export default function ServicesList({
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-8">
       {filteredServices.map((service) => (
+        // <div
+        //   key={service.id}
+        //   className="bg-white rounded-lg shadow-sm overflow-hidden"
+        // >
+        //   <div className="h-48 relative">
+        //     <Image
+        //       src={"/placeholder.svg"}
+        //       alt={service.name}
+        //       fill
+        //       className="object-cover"
+        //     />
+        //     <div className="absolute top-0 right-0 bg-[#B7BBAC] text-zinc-700 px-3 py-1 m-2 rounded-md text-sm font-medium">
+        //       {service.price} {service.currency}
+        //     </div>
+        //   </div>
+        //   <div className="p-6">
+        //     <div className="flex justify-between items-center mb-2">
+        //       <h3 className="font-heading text-xl max-w-72">{service.name}</h3>
+        //       <span className="text-zinc-600 text-sm">
+        //         {service.duration} min
+        //       </span>
+        //     </div>
+        //     <p className="text-[#B7BBAC] font-medium mb-3">
+        //       {
+        //         dictionary.categories[
+        //           categoryMap[
+        //             service.category
+        //           ] as keyof typeof dictionary.categories
+        //         ]
+        //       }
+        //     </p>
+        //     <Link
+        //       href={`https://book.squareup.com/appointments/zmhtr72158hx0a/location/LDT09K6231WYR/services/${service.id}`}
+        //       target="_blank"
+        //       rel="noopener noreferrer"
+        //       className="mt-4 px-4 py-2 bg-[#B7BBAC] hover:bg-[#999D8F] text-white rounded-md transition-colors duration-200"
+        //     >
+        //       Book now
+        //     </Link>
+        //   </div>
+        // </div>
         <div
           key={service.id}
-          className="bg-white rounded-lg shadow-sm overflow-hidden"
+          className="bg-white rounded-2xl border border-zinc-200 shadow-sm hover:shadow-md transition-all duration-300 p-5 flex flex-col justify-between h-full relative"
         >
-          <div className="h-48 relative">
-            <Image
-              src={"/placeholder.svg"}
-              alt={service.name}
-              fill
-              className="object-cover"
-            />
-            <div className="absolute top-0 right-0 bg-[#B7BBAC] text-zinc-700 px-3 py-1 m-2 rounded-md text-sm font-medium">
-              {service.price} {service.currency}
+          <div className="flex justify-between items-start mb-4">
+            <div className='w-full'>
+              <h3 className="font-heading text-lg font-semibold max-w-[calc(100%-72px)] ">
+                {service.name}
+              </h3>
+              <p className="text-sm text-[#B7BBAC] font-medium">
+                {
+                  dictionary.categories[
+                    categoryMap[
+                      service.category
+                    ] as keyof typeof dictionary.categories
+                  ]
+                }
+              </p>
             </div>
+            {/*<div className="text-sm px-3 py-1 rounded-full bg-zinc-100 text-zinc-700 font-medium">*/}
+            {/*  {service.duration} min*/}
+            {/*</div>*/}
+            <span className="absolute top-4 right-4 w-[64px] h-[32px] bg-zinc-100 text-zinc-700 text-sm font-medium rounded-full flex items-center justify-center whitespace-nowrap">
+              {service.duration} min
+            </span>
           </div>
-          <div className="p-6">
-            <div className="flex justify-between items-center mb-2">
-              <h3 className="font-heading text-xl max-w-72">{service.name}</h3>
-              <span className="text-zinc-600 text-sm">
-                {service.duration} min
-              </span>
-            </div>
-            <p className="text-[#B7BBAC] font-medium mb-3">
-              {
-                dictionary.categories[
-                  categoryMap[
-                    service.category
-                  ] as keyof typeof dictionary.categories
-                ]
-              }
-            </p>
+
+          <div className="flex items-center justify-between mt-auto">
+            <span className="text-sm font-semibold text-white bg-[#B7BBAC] px-3 py-1 rounded-full">
+              {service.price} {service.currency}
+            </span>
             <Link
               href={`https://book.squareup.com/appointments/zmhtr72158hx0a/location/LDT09K6231WYR/services/${service.id}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="mt-4 px-4 py-2 bg-[#B7BBAC] hover:bg-[#999D8F] text-white rounded-md transition-colors duration-200"
+              className="text-sm font-medium text-[#B7BBAC] hover:underline"
             >
-              Book now
+              Book now →
             </Link>
           </div>
         </div>
