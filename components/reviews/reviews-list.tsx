@@ -1,6 +1,8 @@
 import Image from "next/image";
 import { SyncLoader } from "react-spinners";
 import { FcGoogle } from "react-icons/fc";
+import {FaInstagram} from "react-icons/fa";
+import Link from "next/link";
 
 interface ReviewsListProps {
   dictionary: {
@@ -112,27 +114,24 @@ export default function ReviewsList({
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
         {localReviews.map((review) => (
           <div key={review._id} className="bg-white p-6 rounded-lg shadow-sm">
-            <div className="flex items-center mb-4">
-              <div className="h-12 w-12 rounded-full overflow-hidden mr-4">
-                <Image
-                  src={`/placeholder.svg?height=100&width=100&text=${encodeURIComponent(
-                    review.name
-                      .split(" ")
-                      .map((word) => word[0])
-                      .join(""),
-                  )}`}
-                  alt={review.name}
-                  width={48}
-                  height={48}
-                  className="object-cover"
-                />
-              </div>
+            <div className="flex items-center justify-between mb-4">
               <div>
                 <h3 className="font-heading text-lg">{review.name}</h3>
                 <p className="text-zinc-600 text-sm">
                   {formatDate(review.createdAt)}
                 </p>
               </div>
+
+              {review.sn_link && review.sn_link.trim() !== "" && (
+                <Link
+                  href={review.sn_link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-[#B7BBAC] hover:text-[#999D8F] transition-colors duration-200"
+                >
+                  <FaInstagram size={20} />
+                </Link>
+              )}
             </div>
 
             <div className="flex mb-3">
@@ -151,16 +150,16 @@ export default function ReviewsList({
 
             <p className="text-zinc-700">{review.comment}</p>
 
-            {review.sn_link && (
-              <a
-                href={review.sn_link}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mt-3 inline-block text-sm text-blue-500 hover:underline"
-              >
-                {review.sn_link}
-              </a>
-            )}
+            {/*{review.sn_link && (*/}
+            {/*  <a*/}
+            {/*    href={review.sn_link}*/}
+            {/*    target="_blank"*/}
+            {/*    rel="noopener noreferrer"*/}
+            {/*    className="mt-3 inline-block text-sm text-blue-500 hover:underline"*/}
+            {/*  >*/}
+            {/*    {review.sn_link}*/}
+            {/*  </a>*/}
+            {/*)}*/}
           </div>
         ))}
       </div>
